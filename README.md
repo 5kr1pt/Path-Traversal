@@ -1,6 +1,10 @@
 # 🚨 Vulnerabilidade: **Path Traversal**
 
-_A vulnerabilidade de Path Traversal, também conhecida como **Directory Traversal**, permite que um atacante acesse arquivos e diretórios restritos explorando falhas na validação dos caminhos informados pela aplicação._
+<div align="center">
+<img src="foto.jpg" width="400" height="500">
+</div>
+
+_A vulnerabilidade de Path Traversal, permite que um atacante acesse arquivos e diretórios restritos explorando falhas na validação dos caminhos informados pela aplicação. A imagem ilustra isso de forma criativa, mostrando o conteúdo do arquivo sensível `/etc/passwd` impresso como um cupom fiscal — uma analogia direta ao que um invasor poderia obter ao explorar essa falha.._
 
 ---
 
